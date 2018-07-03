@@ -38,7 +38,7 @@ Wonder LAB Osaka　交流スペースHUB <br>
 　　https://github.com/WLO-RaspiClub/20170713_LetsStartRaspi
  　を参考にしてください）
 
- *　WiFi接続できるPC<br>
+ * WiFi接続できるPC<br>
 Raspberry Piに設定して、実際にヘッドレスでの操作を確認するためには、PCなどの機材が必要となりますが、WLOではPCを貸し出しできません。WiFi接続できるPCを各自お持ち込みください。
 
 
